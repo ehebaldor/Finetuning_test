@@ -1,2 +1,2 @@
 # Finetuning_test
-Playground for fine tuning stuff and LLM stuff
+Playground for fine tuning and LLM stuff related to intern tasks
